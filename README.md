@@ -34,7 +34,7 @@
 
 ## ERROR FIX IT YOURSELF
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aju001/AJU-SER) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/its-me-kichu/AJU-SER) 
 
 
 # Requirements
